@@ -11,3 +11,6 @@ lunch menu:
 baked salmon  12.99  900cal
 wild ride      2.99  150cal
 green salad   7.99   200cal
+
+burger 8.99    10000cal
+veggie bowl 6.99  10 cal 
