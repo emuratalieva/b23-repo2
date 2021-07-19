@@ -8,3 +8,6 @@ Ice Coffee 2.88  300 cal
 
 lunch menu:
 
+baked salmon  12.99  900cal
+wild ride      2.99  150cal
+green salad   7.99   200cal
